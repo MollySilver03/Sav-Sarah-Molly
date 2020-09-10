@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Homepage</title>
+  </head>
+  <body bgcolor="#ff80aa">
+    <a href="index.html">Homepage</a>
+    <a href="portfolio.html">Quotes </a>
+    <a href="aboutme.html">Photos</a>
+    <h1>Welcome to Mollys,Sav,Sarah and Makaylas home pages </h1>
+   
+  </body>
+</html>
